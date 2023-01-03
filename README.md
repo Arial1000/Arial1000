@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arial1000
+- 👋 Hi, I’m Kali Ferguosn
 - 👀 I’m interested in Java, Python, Mobile App Development, and Software Engineering
 - 🌱 I’m currently learning Python and Mobile App Development
 - 💞️ I’m looking to collaborate on Anything
