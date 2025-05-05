@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kali Ferguosn
-- 👀 I’m interested in Java, Python, Mobile App Development, and Software Engineering
-- 🌱 I’m currently learning Python and Mobile App Development
+- 👀 I’m interested in Java, Python, and Software Engineering
+- 🌱 I’m currently learning Python and Web App Development
 - 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me lyricthefirst@gmail.com
 
