@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kali Ferguosn
-- 👀 I’m interested in Java, Python, and Software Engineering
+- 👀 I’m interested in Java, Python, Cyber Security, and Software Engineering
 - 🌱 I’m currently learning Python and Web App Development
 - 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me lyricthefirst@gmail.com
