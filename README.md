@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kali Ferguosn
 - 👀 I’m interested in Java, Python, Cyber Security, and Software Engineering
-- 🌱 I’m currently learning Python and Web App Development
+- 🌱 I’m a Cyber Security Engineering MS student at George Mason University
 - 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me lyricthefirst@gmail.com
 - You can check out my personal website here: https://arial1000.github.io/Kali-Ferguson-Portfolio/
