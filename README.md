@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python and Web App Development
 - 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me lyricthefirst@gmail.com
+- You can check out my personal website here: https://arial1000.github.io/Kali-Ferguson-Portfolio/
 
 <!---
 Arial1000/Arial1000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
